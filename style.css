@@ -1,0 +1,18 @@
+h1 {
+    margin: 0 auto;
+    text-align: center;
+}
+#world {
+display: flex;
+margin: 0 auto;
+background-color: green;
+text-align: center;
+border-style: dotted;
+border-width: 5px;
+border-color: gray;
+
+}
+#game_over_div {
+    margin: 0 auto;
+    text-align: center;
+}
